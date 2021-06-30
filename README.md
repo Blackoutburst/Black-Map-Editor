@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/github/license/Blackoutburst/Black-Map-Editor.svg)](LICENSE)
+
 # Black Map Editor
 
 Blackoutburst map editor a.k.a B.M.E is a simple map editor for 2D map creation, you can add any texture you want for tiles and same for skybox (skybox are only used for render)
