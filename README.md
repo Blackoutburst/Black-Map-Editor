@@ -1,4 +1,5 @@
 [![License](https://img.shields.io/github/license/Blackoutburst/Black-Map-Editor.svg)](LICENSE)
+[<img src="https://img.shields.io/badge/Webpage-B.M.E-blueviolet">](https://www.blackoutburst.com/bme.html)
 
 # Black Map Editor
 
